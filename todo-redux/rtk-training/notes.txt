@@ -1,0 +1,20 @@
+@reduxjs/toolkit
+    |(Provides)
+configureStore
+createSlice
+createAsyncThunk
+RTK Query
+
+
+
+
+react-redux
+    |(Provides)
+    |
+Provider
+useDispatch
+useSelector    
+
+
+
+
